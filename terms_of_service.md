@@ -17,7 +17,7 @@ Users are prohibited from:
 We are not liable for any damages or losses resulting from the use or inability to use the bot.
 
 ## 5. Changes to the Terms
-We reserve the right to update these terms at any time. Changes will be communicated through [https://discord.gg/pExjx4agXt] or other official channels.
+We reserve the right to update these terms at any time. Changes will be communicated through https://discord.gg/pExjx4agXt or other official channels.
 
 ## 6. Contact
-For questions or concerns, please reach out via [https://discord.gg/pExjx4agXt].
+For questions or concerns, please reach out via https://discord.gg/pExjx4agXt.
