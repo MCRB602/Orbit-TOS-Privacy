@@ -22,7 +22,7 @@ The bot may collect the following data:
 - You can request deletion of your data at any time by contacting us at https://discord.gg/pExjx4agXt.
 
 ## 6. Changes to the Policy
-We reserve the right to update this policy at any time. Updates will be communicated via [GitHub Repository URL] or other official channels.
+We reserve the right to update this policy at any time. Updates will be communicated via https://discord.gg/pExjx4agXt.
 
 ## 7. Contact
-For questions or concerns about this policy, reach out via (https://discord.gg/pExjx4agXt).
+For questions or concerns about this policy, reach out via https://discord.gg/pExjx4agXt.
