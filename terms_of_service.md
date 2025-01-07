@@ -1,7 +1,7 @@
 # Terms of Service
 
 ## 1. Introduction
-Welcome to "Orbit"! By using this bot, you agree to the following terms and conditions. If you do not agree, please refrain from using the bot.
+Welcome to "Lumi"! By using this bot, you agree to the following terms and conditions. If you do not agree, please refrain from using the bot.
 
 ## 2. Use of the Bot
 - The bot is provided "as is," and we make no guarantees about uptime, availability, or feature reliability.
