@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## 1. Introduction
-Orbit values your privacy. This document outlines how we collect, use, and protect your data while using the bot.
+Lumi values your privacy. This document outlines how we collect, use, and protect your data while using the bot.
 
 ## 2. Data We Collect
 The bot may collect the following data:
